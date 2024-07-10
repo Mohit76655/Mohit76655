@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Kachhwaha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate DevOps/frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit76655&label=Profile%20views&color=0e75b6&style=flat" alt="mohit76655" /> </p>
 
