@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Movie Mantra](https://github.com/Mohit76655/Movie-Mantra)
 
-- 🌱 I’m currently learning **TypeScript & NextJs**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://mohit-portfolio-web-app.vercel.app/](https://mohit-portfolio-web-app.vercel.app/)
 
