@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohit-portfolio-web-app.vercel.app/](https://mohit-portfolio-web-app.vercel.app/)
 
-- 💬 Ask me about **JavaScript & React**
+- 💬 Ask me about **JavaScript,React and DevOps**
 
 - 📫 How to reach me **Mohit76655@gmail.com**
 
